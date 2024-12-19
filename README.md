@@ -22,6 +22,6 @@ This step involves downloading, installing, and configuring The Splunk SIEM on a
   ![Screenshot!](https://github.com/user-attachments/assets/ef86148e-656f-46cb-9364-e348ad0c56e1)
 
 
--The next step involves running and signing into Splunk using the account previously created. Launching the application will redirect you to the web interface, shown above. Log in with your credentials to access the Splunk dashboard.
+- The next step involves running and signing into Splunk using the account previously created. Launching the application will redirect you to the web interface, shown above. Log in with your credentials to access the Splunk dashboard.
 
 ![splunk dashboard](https://github.com/user-attachments/assets/7cbb90c3-e3ae-43e9-a6a1-9a43f4d4182f)
