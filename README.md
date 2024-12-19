@@ -13,6 +13,8 @@ it also serves as
 ## Setting Up The Splunk Environment
 This step involves downloading, installing, and configuring The Splunk SIEM on a host PC for data ingestion and analysis
 
-- First thing we'll need to do is head over to Splunks website, setup an account and and Download Splunk Enterprise, I'll be making use of the free 60 days trial
+- First thing we'll need to do is head over to Splunks website, setup an account and and Download Splunk Enterprise. For this project, I'll be making use of the free 60 days trial to get started
+  
+ I've left a link to the Splunk's official website below
 
   [Splunk Official Website](https://www.splunk.com/en_us.html)
