@@ -27,3 +27,4 @@ This step involves downloading, installing, and configuring The Splunk SIEM on a
 ![splunk dashboard](https://github.com/user-attachments/assets/7cbb90c3-e3ae-43e9-a6a1-9a43f4d4182f)
 
 ## Data Ingestion and Log Collection
+This step involves collecting and ingesting logs from my local PC into Splunk. The logs will include Local evnt logs(from windows) and network logs captured using wireshark. The goal of this step is to gather data for analysis within splunk.
